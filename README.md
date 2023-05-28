@@ -1,11 +1,14 @@
 # Unleashing the Power of Data: Analyzing Box Offices Success to Shape Microsoft's New Movie Studio strategy
 
+!https://github.com/foaxy/Phase1_Project/blob/main/Images/image.jpg
+
 ## Overview
 
 This project aims to explore the types of films that are currently performing well at the box office and provide actionable insights for Microsoft's new movie studio. The goal is to help Microsoft make informed decisions about the types of films they should create in order to succeed in the competitive movie industry.
 Business Understanding
 
 Stakeholder: Head of Microsoft's new movie studio
+
 Key Business Questions:
 
     What types of films are currently performing the best at the box office?
